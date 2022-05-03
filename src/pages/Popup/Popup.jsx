@@ -2,7 +2,6 @@ import React from 'react';
 import logo from '../../assets/img/penguin.svg';
 import okay from '../../assets/okay.svg';
 import danger from '../../assets/danger.svg';
-import Greetings from '../../containers/Greetings/Greetings';
 import './Popup.css';
 import {ISettings, useSettingsStore} from '../../common/useSettingsStore';
 
